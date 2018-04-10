@@ -10,7 +10,7 @@
 ### 1.1用例图PlantUML源码如下：
 
 
-
+```
 @startuml
 left to right direction
 :系统管理员: as SysAdmin
@@ -47,6 +47,7 @@ Librarian --> (维护读者信息)
 
 }
 @enduml
+```
 ### 1.2用例图如下：
 ![](p1.png)
 
