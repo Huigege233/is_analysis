@@ -38,7 +38,7 @@
 - ### [“查看成绩”用例](./example/查看成绩.md),[界面](https://magehui.github.io/is_analysis/test6/ui/查看成绩.html)
 - ### [“老师选课”用例](./example/老师选课.md),[界面](https://magehui.github.io/is_analysis/test6/ui/老师选课.html)
 - ### [“学生选课”用例](./example/学生选课.md),[界面](https://magehui.github.io/is_analysis/test6/ui/学生选课.html)
-- ### [“修改密码”用例](./example/修改密码.md),[界面](https://magehui.github.io/is_analysis/test6/ui/顶部菜单.html)
+- ### [“修改密码”用例](./example/修改密码.md),[界面](https://magehui.github.io/is_analysis/test6/ui/修改密码.html)
 - ### [“修改用户信息”用例](./example/修改用户信息.md),[界面](https://magehui.github.io/is_analysis/test6/ui/修改用户信息.html)
 - ### [“查看用户信息”用例](./example/查看用户信息.md),[界面](https://magehui.github.io/is_analysis/test6/ui/查看用户信息.html)
 - ### [“学期列表”用例](./example/学期列表.md),[界面](https://magehui.github.io/is_analysis/test6/ui/顶部菜单.html)
